@@ -1,4 +1,4 @@
-name: Action Sample
+name: Action Sample100
 on:
   push:
     branches:
